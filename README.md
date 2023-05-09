@@ -1,5 +1,6 @@
 # Baseball-Stats
 Exploratory data analysis and built multiple regression models to investigate the relationship between various offensive statistics and the number of runs scored in baseball.
+# Written in R code
 library(MASS)   # For fitting the Poisson regression model
 library(car)    # For the stepAIC function
 library(caret)
